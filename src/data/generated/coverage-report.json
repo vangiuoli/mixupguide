@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-09-29",
+  "patch": "V1.82",
+  "summary": {"characters":23,"regularCharacters":22,"specialForms":1,"moveFamilies":192,"variants":216,"directionalMatchups":506,"liveTestedClaims":0,"staleClaims":0},
+  "characters": [
+    {"id":"gojo","families":13,"variants":14,"documentationVerified":14,"needsLiveTest":14},
+    {"id":"yuji","families":11,"variants":14,"documentationVerified":14,"needsLiveTest":14},
+    {"id":"hakari","families":8,"variants":10,"documentationVerified":10,"needsLiveTest":10},
+    {"id":"megumi","families":9,"variants":10,"documentationVerified":10,"needsLiveTest":10},
+    {"id":"mahoraga","families":8,"variants":8,"documentationVerified":8,"needsLiveTest":8},
+    {"id":"mahito","families":7,"variants":10,"documentationVerified":10,"needsLiveTest":10},
+    {"id":"choso","families":9,"variants":10,"documentationVerified":10,"needsLiveTest":10},
+    {"id":"todo","families":7,"variants":8,"documentationVerified":8,"needsLiveTest":8},
+    {"id":"higuruma","families":13,"variants":13,"documentationVerified":13,"needsLiveTest":13},
+    {"id":"yuta","families":9,"variants":13,"documentationVerified":13,"needsLiveTest":13},
+    {"id":"mechamaru","families":9,"variants":9,"documentationVerified":9,"needsLiveTest":9},
+    {"id":"naoya","families":9,"variants":9,"documentationVerified":9,"needsLiveTest":9},
+    {"id":"nanami","families":8,"variants":8,"documentationVerified":8,"needsLiveTest":8},
+    {"id":"ryu","families":7,"variants":9,"documentationVerified":9,"needsLiveTest":9},
+    {"id":"hanami","families":8,"variants":10,"documentationVerified":10,"needsLiveTest":10},
+    {"id":"reggie","families":11,"variants":11,"documentationVerified":11,"needsLiveTest":11,"shortExpiry":true},
+    {"id":"koguy","families":5,"variants":5,"documentationVerified":5,"needsLiveTest":5},
+    {"id":"yuki","families":6,"variants":8,"documentationVerified":8,"needsLiveTest":8},
+    {"id":"charles","families":6,"variants":6,"documentationVerified":6,"needsLiveTest":6},
+    {"id":"haruta","families":9,"variants":9,"documentationVerified":9,"needsLiveTest":9},
+    {"id":"meimei","families":7,"variants":7,"documentationVerified":7,"needsLiveTest":7},
+    {"id":"kurourushi","families":8,"variants":8,"documentationVerified":8,"needsLiveTest":8},
+    {"id":"uro","families":5,"variants":7,"documentationVerified":7,"needsLiveTest":7,"shortExpiry":true}
+  ]
+}
